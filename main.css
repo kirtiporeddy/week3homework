@@ -1,0 +1,85 @@
+body {
+    background-color: #FFD801;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250px;
+    
+}
+
+.one {
+    position: fixed;
+    width: 182px;
+    height: 1024px;
+    left: 60px;
+    top: -5px;
+}
+}
+
+.two {
+    position: fixed;
+    width: 182px;
+    height: 1024px;
+    left: 160px;
+    top: 2px;
+}
+
+.three {
+    position: fixed;
+    width: 182px;
+    height: 1024px;
+    left: 760px;
+    top: 0px;
+    
+}
+
+.four {
+    position: static;
+    width: 1822px;
+    height: 1024px;
+    left: 160px;
+    top: 500px;
+}
+
+.five {
+    position: fixed;
+    width: 182px;
+    height: 1024px;
+    left: 9px;
+    top: 600px;
+}
+
+.six {
+    position: fixed;
+    width: 182px;
+    
+    left: 350px;
+    top: 600px;
+}
+
+.seven {
+    position: fixed;
+    width: 180px;
+    
+    left: 690px;
+    top: 600px;
+}
+
+.april {
+    position: static;
+    width: 1822px;
+   
+    left: 150px;
+    top: 1px;
+  
+    
+    
+}
+}
